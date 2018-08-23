@@ -1,0 +1,55 @@
+-   id: vitezslav.korab
+    position: 1
+    name: Vitězslav Koráb
+    age: 74
+    work: Důchodce
+
+-   id: jaroslav.kukol 
+    position: 2
+    name: Jaroslav Kúkol
+    age: 39
+    work: Vedoucí směny
+
+-   id: andrej.ramaseuski 
+    position: 3
+    name: Andrej Ramašeuski
+    age: 48
+    work: Systémový administrátor
+    biografy: > 
+        Šťastný otec 4 deti. Zaměstnanec vývoje ve firmě zaměřené na 
+        informační technologie, obecní rozhlasy a systémy veřejneho 
+        osvětlení. Myslivec. Člen Republikového výboru 
+        <a href="https://www.pirtati.cz/">České piratské strany</a>.
+        Aktivista svobodného softaru a otevření veřejné správy. 
+        Asistent poslance <a href="http://www.psp.cz/sqw/detail.sqw?id=6450">Mikulaše Ferjenčika</a>.
+        Chovatel ovci. 
+
+-   id: ingrid.jiskrova 
+    position: 4
+    name: Ingrid Jiskrová
+    age: 50
+    work: Dispečer
+
+-   id: jan.novak 
+    position: 5
+    name: Jan Novák
+    age: 43
+    work: Svářeč
+
+-   id: jan.balous  
+    position: 6
+    name: Jan Balous
+    age: 30
+    work: Seřizovač
+
+-   id: michal.berka 
+    position: 7
+    name: Michal Berka
+    age: 55
+    work: Strojvedoucí
+
+-   id: jaromir.sulc
+    position: 8
+    name: Jaromír Šulc
+    age: 60
+    work: Ekologická výchova, sokolník
