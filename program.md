@@ -49,7 +49,7 @@ obchodu, ale i jeho provoz prominutim najemného a přispěvkem pro
 zaměstnance. Doufame, ze funkční obecní obchod bude nejen službou 
 občanům, ale i důležitého centra veřejného života v obci.
 
-## Investujeme do rozvoje a modernizace obecni infrastruktury
+## Zajistime rozvoj a modernizaci obecni infrastruktury
 
 <blockquote>
 Mezi největší problemy obecní infrastruktury považujeme chybějicí 
@@ -65,12 +65,15 @@ v informačních systemech Kraje a přislušných ministerstev.
 Nenecháme si utéct žádnou dotační příležitost do rozvoje 
 infrastruktury.  
 - <b>Podpořime vystavbu domovních čistíček odpadních vod.</b>
-V pripadě nedostatku dotačních penez i z obecniho rozpočtu -
-to je priorita definována ve Strategickém planu.
+V pripadě nedostatku dotačních penez podpořime tuto prioritu, 
+definovánou ve Strategickém planu, z obecniho rozpočtu.
 - <b>Modernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
 musí byt spolehlivy, pravidelně testováný a dobře slyšitelný
 ve všech částech obce. Věrejne osvetlení bude usporné a dobře
 ovladatelné.
+- <b>Budeme se snažit propojit Radhošť s železniční zasatvkou chodnikem.</b> 
+Cesta na vlak po špatně osvetlené silnici v ranních a večerních 
+hodninach, obzvlašť v zimě, nesmi by rizikem pro zdravi a život.
     
 ## Otevřeme a zpřehlednime činnost zastupitelstva  
 
