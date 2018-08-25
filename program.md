@@ -17,8 +17,10 @@ vzdělání, sportu a kulturním zážitkům.
 
 Ve svém programu plánujeme vyřešit akutní organizační 
 a finanční problemy obce a dal se řidit potřebama občanů a 
-<b>Strategickým rozvojovým plánem</b> obce, rozpracovaným 
-za aktivní účasti členů sdružení <b>Změna pro Radhošť</b> 
+<b><a href="/downloads/strategicky_plan.pdf">Strategickým rozvojovým plánem obce</a></b>, 
+vypracovaným za aktivní účasti členů sdružení <b>Změna pro Radhošť</b>.
+Proto, neuvadime v programu nektere priority uvedene ve 
+Strategickym plánu - považujeme je za samozřejmost.  
 
 ## Zastavíme bezdůvodní privatizaci obecního rozpočtu 
 <a href="#" class="image main"><img src="{{ "/images/uvolneni.jpg" | absolute_url }}" alt="" /></a>
@@ -47,7 +49,7 @@ V souhlasu se strategickým planem, považujeme opravu budovu obecní prodejny
 za jednu z našich programových priorit. Podpořime nejen zprovoznění 
 obchodu, ale i jeho provoz prominutim najemného a přispěvkem pro 
 zaměstnance. Doufame, ze funkční obecní obchod bude nejen službou 
-občanům, ale i důležitého centra veřejného života v obci.
+občanům, ale i důležitym centrem veřejného života v obci.
 
 ## Zajistime rozvoj a modernizaci obecni infrastruktury
 
