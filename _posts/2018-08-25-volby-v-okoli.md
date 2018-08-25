@@ -8,9 +8,9 @@ image: "/images/mapa_okoli.jpg"
 ## Trusnov
 V <a href="https://www.volby.cz/pls/kv2018/kv2211?xjazyk=CZ&xid=1&xv=12&xdz=1&xnumnuts=5302&xobec=575828">Trusnově</a> 
 stávající zastupitele ze dvou sdružení nezávislých kandidátů 
-z předešlých voleb se spojili do jedného sdržení, a do 9 členného 
-zastupitelstva (dnes je zastupitelů 7) kandiduje 
-9 kandidátů. Průměrný věk trusnovského kandidata je 50.9 let 
+z předešlých voleb se spojili do jedného sdržení. Na konec
+kandidatní listiny se přpojili myslivec Vítězslav Bečka
+a Petr Zeman.
 
 <div class="table-wrapper">
 <table>
@@ -29,6 +29,23 @@ zastupitelstva (dnes je zastupitelů 7) kandiduje
 </div>
 
 ## Uhersko
+V <a href="https://www.volby.cz/pls/kv2018/kv2211?xjazyk=CZ&xid=1&xv=12&xdz=1&xnumnuts=5302&xobec=575879">Uhersku</a> 
+obhajují mandat jen 4 stávající zastupitele
+
+<div class="table-wrapper">
+<table>
+<tbody>
+1<tr><td><td>PAVEL HOŘČIČKA</b></td><td>44</td></tr>	
+2<tr><td><td><b>Ing. LUBOMÍR KAPLAN</b></td><td>64</td></tr>
+3<tr><td><td><b>MARIE KLEMENTOVÁ</b></td><td>57</td></tr>
+4<tr><td><td><b>ZDENĚK MAŠEK DiS.</b></td><td>42</td></tr>
+5<tr><td><td><b>IVETA NOVÁKOVÁ</b></td><td>	48</td></tr>	
+6<tr><td><td>Ing. IVANA PROCHÁZKOVÁ</b></td><td>33</td></tr>
+7<tr><td><td>Ing. JANA VÁŇOVÁ Ph.D.</b></td><td>31</td></tr>
+</tbody>
+</table>
+</div>
+
 ## Stradouň
 ## Jaroslav
 ## Tyňišťko
