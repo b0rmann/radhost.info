@@ -4,7 +4,7 @@
     age: 74
     work: Důchodce
     mission: >
-        V zastupitelstvu budu garantem zachování dobrý tradici a 
+        V zastupitelstvu budu garantem zachování dobrých tradici a 
         ochrancem zajmů starší generace.
 
 -   id: jaroslav.kukol 
@@ -61,6 +61,9 @@
     age: 30
     work: Seřizovač
     facebook: jan.balous.56 
+    mission: >
+        V zastupitelstvu budu reprezentovat mladší generaci a zapojim se 
+        do organizaci volnočasových aktivit
 
 -   id: michal.berka 
     position: 7
