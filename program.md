@@ -71,9 +71,10 @@ definovánou ve Strategickém planu, z obecniho rozpočtu.
 musí byt spolehlivy, pravidelně testováný a dobře slyšitelný
 ve všech částech obce. Věrejne osvetlení bude usporné a dobře
 ovladatelné.
-- <b>Budeme se snažit propojit Radhošť s železniční zasatvkou chodnikem.</b> 
-Cesta na vlak po špatně osvetlené silnici v ranních a večerních 
-hodninach, obzvlašť v zimě, nesmi by rizikem pro zdravi a život.
+- <b>Budeme se snažit propojit Radhošť se železniční zasatvkou 
+chodnikem.</b> Cesta na vlak po špatně osvetlené silnici v ranních 
+a večerních  hodninach, obzvlašť v zimě, nesmi by rizikem pro 
+zdravi a život.
     
 ## Otevřeme a zpřehlednime činnost zastupitelstva  
 
