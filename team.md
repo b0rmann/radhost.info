@@ -22,10 +22,21 @@ Vime jak toho dosahnout, mame kompletní <a href="/program">program</a> a věři
 
 
 {% for person in site.data.people %}
-### {{person.position}}. {{ person.name }}, {{ person.work }}
 <div class="box">
-<img class="image left" style="height: 200px;" src="/images/persons/{{  person.id }}.jpg" alt="{{ person.name }}" />
+<header>
+<img class="image left" src="/images/persons/{{  person.id }}.jpg" alt="{{ person.name }}" />
+<h3>{{person.position}}. {{ person.name }}</h3>
+<p>{{ person.work }}</p>
+</header>
+<p>
 {{person.biografy}}
+{% if person.facebook %}
+<a href="https://www.facebook.com/{{person.facebook}}" class="icon fa-facebook"><span class="label">Facebook</span></a>
+{% endif %}
+</p>
+{% if person.mission %}
+<p>{{ person.mission }}</p>
+{% endif %}
 <hr style="clear:left;">
 </div>
 {% endfor %}

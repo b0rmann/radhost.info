@@ -3,44 +3,64 @@
     name: Vitězslav Koráb
     age: 74
     work: Důchodce
+    mission: >
+        V zastupitelstvu budu garantem zachování dobrý tradici a 
+        ochrancem zajmů starší generace.
 
 -   id: jaroslav.kukol 
     position: 2
     name: Jaroslav Kúkol
     age: 39
     work: Vedoucí směny
+    facebook: jaroslav.kukol
+    mission: >
+        V zastupitelstvu se postaram o spolupraci s občanskymi spolky,
+        otazky telesné výchovy a sportu.            
 
 -   id: andrej.ramaseuski 
     position: 3
     name: Andrej Ramašeuski
     age: 48
     work: Systémový administrátor
+    facebook: b0rmann
     biografy: > 
         Šťastný otec 4 deti. Zaměstnanec vývoje ve firmě zaměřené na 
         informační technologie, obecní rozhlasy a systémy veřejneho 
         osvětlení. Myslivec. Člen Republikového výboru 
         <a href="https://www.pirtati.cz/">České piratské strany</a>.
-        Aktivista svobodného softaru a otevření veřejné správy. 
+        Aktivista svobodného softwaru a otevření veřejné správy. 
         Asistent poslance <a href="http://www.psp.cz/sqw/detail.sqw?id=6450">Mikulaše Ferjenčika</a>.
         Chovatel ovci. 
+    mission: >
+        V zastupitelstvu zajístim fungování informačních systému,
+        administrativu a spolupraci se statní spravou. 
 
 -   id: ingrid.jiskrova 
     position: 4
     name: Ingrid Jiskrová
     age: 50
     work: Dispečer
+    facebook: ischule 
+    mission: >
+        V zastupitelstvu se zapojim do adminstrativní prace
+        a komunikaci s občany. 
 
 -   id: jan.novak 
     position: 5
     name: Jan Novák
     age: 43
     work: Svářeč
+    facebook: Orfinjan 
+    mission: >
+        V zastupitelstvu se budu věnovat zaležitostěm kultury
+        a společenských aktivit.  
 
 -   id: jan.balous  
     position: 6
     name: Jan Balous
     age: 30
     work: Seřizovač
+    facebook: jan.balous.56 
 
 -   id: michal.berka 
     position: 7
@@ -53,3 +73,4 @@
     name: Jaromír Šulc
     age: 60
     work: Ekologická výchova, sokolník
+    facebook: jaromir.sulc 
