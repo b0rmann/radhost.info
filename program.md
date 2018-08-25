@@ -7,14 +7,22 @@ sitemap:
     lastmod: 2018-08-21
     changefreq: weekly
 ---
-Ve svém programu planujeme vyřešit akutní organizační a finanční 
-problemy obce a dal se řidit potřebama občanu a 
+## Naše vize
+Obec má být společenstvím občanů, které každému jednotlivci pomáhá 
+prožít svůj život svobodně a naplno. Chceme, aby správu obce 
+zajišťoval úřad otevřený, moderní, odpovědný a vstřícný, který 
+oceňuje a podporuje aktivitu občanů. Úřad schopný zajistit občanům 
+kvalitní služby, pomoc v těžkých situacích i příležitosti ke 
+vzdělání, sportu a kulturním zážitkům.
+
+Ve svém programu plánujeme vyřešit akutní organizační 
+a finanční problemy obce a dal se řidit potřebama občanů a 
 <b>Strategickým rozvojovým plánem</b> obce, rozpracovaným 
 za aktivní účasti členů sdružení <b>Změna pro Radhošť</b> 
 
-
-### Zastavíme bezdůvodní privatizaci obecního rozpočtu 
+## Zastavíme bezdůvodní privatizaci obecního rozpočtu 
 <a href="#" class="image main"><img src="{{ "/images/uvolneni.jpg" | absolute_url }}" alt="" /></a>
+<blockquote>
 Během posledního roku zastupitelstvo, aniž by se poradilo s občany 
 nebo je informovalo, přijalo několik opatření, vedoucích k masivnímu 
 přelívání obecních peněz do soukromých kapes – byla uvolněna 
@@ -26,13 +34,13 @@ a celkový počet zastupitelu se navýšil na 7. Nevidíme žádný
 důvod podobného plýtvání obecními penězi – jejích důsledkem 
 náklady na odměny členů zastupitelstva zabírají 
 1/3 celkového rozpočtu.
+</blockquote>
 
 - <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 280000 za rok
 - <b>Vrátíme odměny neuvolněných členů zastupitelstva na 1000 kč/měsíc</b> - uspoříme dalších 70000 za rok
 - <b>Snížíme od příštího volebního období počet zastupitelu zpět na 5</b>
 
-
-### Podpoříme znovuotevření obecního obchodu
+## Podpoříme znovuotevření obecního obchodu
 <span class="image main"><img src="{{ "/images/prodejna.jpg" | absolute_url }}" alt="" /></span>
 
 V souhlasu se strategickým planem, považujeme opravu budovu obecní prodejny 
@@ -41,14 +49,33 @@ obchodu, ale i jeho provoz prominutim najemného a přispěvkem pro
 zaměstnance. Doufame, ze funkční obecní obchod bude nejen službou 
 občanům, ale i důležitého centra veřejného života v obci.
 
-### Investujeme do rozvoje a modernizace obecni infrastruktury
+## Investujeme do rozvoje a modernizace obecni infrastruktury
 
- 
+<blockquote>
+Mezi největší problemy obecní infrastruktury považujeme chybějicí 
+chodník od Radhoště k železníční zastavce, zastaralý a drahý 
+v provozu systém veřejneho osvětlení, doživající obecní rozhlas, 
+chybejcí kanalizaci a špatnou internetovou konektivitu. 
+</blockquote>
 
-### Otevřeme činnost zastupitelstva a zmodernizujeme úřad 
-  <p>
-Činnost zastupitelstva našé obce je dlouhodobě extrémně neprůhledná. Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizovaní žádosti o poskytnutí informací trvá více jak dva týdny, nezveřejňují se žádné informace o veřejných zakázkách malého rozsahu a ani většina smluv uzavřených obci. Hlášení obecního rozhlasu nejsou archivována a není možnost je poslechnout později. 
-  </p>
+- <b>Vytvořime finanční rezervu na rozvoj infrastruktury.</b> 
+Abychom byli pripravení operativn; reagovbat na dotační vyzvy 
+- <b>Budeme nepřetřitě sledovat nabidky dotaci obcim</b> 
+v informačních systemech Kraje a přislušných ministerstev. 
+Nenecháme si utéct žádnou dotační příležitost do rozvoje 
+infrastruktury.  
+- <b></b>
+    
+
+## Otevřeme činnost zastupitelstva a zmodernizujeme úřad 
+<blockquote>
+Činnost zastupitelstva našé obce je dlouhodobě extrémně neprůhledná. 
+Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizovaní 
+žádosti o poskytnutí informací trvá více jak dva týdny, nezveřejňují 
+se žádné informace o veřejných zakázkách malého rozsahu a ani 
+většina smluv uzavřených obci. Hlášení obecního rozhlasu nejsou 
+archivována a není možnost je poslechnout později. 
+</blockquote>
 
 - <b>Zprovozníme plnohodnotný obecní web</b>
 který bude obsahovat kompletní informace o činnosti obecního 
@@ -64,7 +91,7 @@ věřejných pěnez.
 - <b>Zprovozníme archiv vysílání obecního rozhlasu a tištěný zpravodaj.</b> 
 Žádná novinka a vyhláška se občanům neztratí.
 
-### Umožníme občanům aktivně rozhodovat o řízení obce
+## Umožníme občanům aktivně rozhodovat o řízení obce
 
 - <b>Zavedeme participativní rozpočtovou položku.</b> 
 V souladu z navrhem opatření 3.4 Strategického planu, vyčleníme 
