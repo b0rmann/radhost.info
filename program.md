@@ -59,15 +59,21 @@ chybejcí kanalizaci a špatnou internetovou konektivitu.
 </blockquote>
 
 - <b>Vytvořime finanční rezervu na rozvoj infrastruktury.</b> 
-Abychom byli pripravení operativn; reagovbat na dotační vyzvy 
-- <b>Budeme nepřetřitě sledovat nabidky dotaci obcim</b> 
+Abychom byli pripravení operativně reagovbat na dotační vyzvy 
+- <b>Budeme nepřetřitě sledovat nabidky dotaci</b> obcim 
 v informačních systemech Kraje a přislušných ministerstev. 
 Nenecháme si utéct žádnou dotační příležitost do rozvoje 
 infrastruktury.  
-- <b></b>
+- <b>Podpořime vystavbu domovních čistíček odpadních vod.</b>
+V pripadě nedostatku dotačních penez i z obecniho rozpočtu -
+to je priorita definována ve Strategickém planu.
+- <b>Modernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
+musí byt spolehlivy, pravidelně testováný a dobře slyšitelný
+ve všech částech obce. Věrejne osvetlení bude usporné a dobře
+ovladatelné.
     
+## Otevřeme a zpřehlednime činnost zastupitelstva  
 
-## Otevřeme činnost zastupitelstva a zmodernizujeme úřad 
 <blockquote>
 Činnost zastupitelstva našé obce je dlouhodobě extrémně neprůhledná. 
 Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizovaní 
@@ -101,9 +107,6 @@ u které o rozdělení prostředku rozhodnou občané v anketě.
 - <b>Zveřejníme podklady k jednaní zastupitelstva.</b>
 Každý občan bude předem vědět podrobnou informaci o každem 
 plánovaném jednání zastupitelstva obce
-- <b>Nabídneme občanům prostor k vyjadřovaní názoru</b> nejen ve volné 
-dizkuse ale i v hlavních bodech programu jednání zastupitelstva.
-      
-A ještě navíc
-- Doplníme obecní rozpočet dotacemi
-pohlídáme si dotační výzvy na webu Ministerstva pro místní rozvoj a jiné
+- <b>Nabídneme občanům prostor k vyjadřovaní názoru</b> na zasedanich
+zastupitelstva nejen ve volné dizkuse ale i v hlavních bodech 
+programu jednání.
