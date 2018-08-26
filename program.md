@@ -52,6 +52,7 @@ zaměstnance. Doufáme, že funkční obecní obchod bude nejen službou
 občanům, ale i důležitým centrem veřejného života v obci.
 
 ## Zajístime rozvoj a modernizaci obecní infrastruktury
+<span class="image main"><img src="{{ "/images/lampa.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>
 Za největší problémy obecní infrastruktury považujeme chybějicí 
 chodník od Radhoště k železníční zastávce, zastaralý a drahý 
