@@ -7,18 +7,18 @@ sitemap:
     lastmod: 2018-08-21
     changefreq: weekly
 ---
-Reprezentujeme všechné věkové skupiny, všechný obecní časti. 
-Delámé různou praci, patřime k různým národnostěm. Jsou mezi nama
-starousedlici i přistěhovalci. Reprezentujeme všechný občanske spolky -
-TJ Sokol, dobrovolní hasiče a myslivce. Navzajem se dopnujeme a jsme 
+Reprezentujeme všechny věkové skupiny, všechny časti obce. 
+Děláme různou práci, patříme k různým národnostem. Jsou mezi nami
+starousedlíci i přistěhovalci. Reprezentujeme všechny občanské spolky -
+TJ Sokol, dobrovolní hasiči a myslivci. Navzájem se dopnujeme a jsme 
 jeden team. 
 
-Nas spojuje společný zájem o to, aby náše obec vkvětala a nestarla, 
-aby se mezi občany se udržovali dobre vztahy a vzájemná výpomoc, 
-aby lidě mezi sebou vice setkavali a komunkovali, aby i v naši vesnici
+Nás spojuje společný zájem o to, aby naše obec vzkvétala a nestarla, 
+aby se mezi občany udržovalí dobré vztahy a vzájemná výpomoc, 
+aby lide se mezi sebou vice setkávali a komunkovali, aby i v naši vesnici
 pravda a láska zvítězili nad lží a nenávistí.
 
-Vime jak toho dosahnout, mame kompletní <a href="/program">program</a> a věřime ve vaší podporu.
+Vime jak toho dosáhnout, máme kompletní <a href="/program">program</a> a věříme ve vaší podporu.
 
 
 {% for person in site.data.people %}
