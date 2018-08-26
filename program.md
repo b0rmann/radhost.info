@@ -103,6 +103,7 @@ věřejných pěnez.
 Žádná novinka a vyhláška se občanům neztratí.
 
 ## Umožníme občanům aktivně rozhodovat o řízení obce
+<span class="image main"><img src="{{ "/images/swat.jpg" | absolute_url }}" alt="" /></span>
 - <b>Zavedeme participativní rozpočtovou položku.</b> 
 V souladu z návrhem opatření 3.4 Strategického plánu, vyčleníme 
 z rozpočtu obce částku (na záležitosti kultury, sport, podporu 
