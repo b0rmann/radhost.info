@@ -16,24 +16,24 @@ kvalitní služby, pomoc v těžkých situacích i příležitosti ke
 vzdělání, sportu a kulturním zážitkům.
 
 Ve svém programu plánujeme vyřešit akutní organizační 
-a finanční problemy obce a dal se řidit potřebama občanů a 
+a finanční problémy obce a dál se řidit potřebami občanů a 
 <b><a href="/downloads/strategicky_plan.pdf">Strategickým rozvojovým plánem obce</a></b>, 
 vypracovaným za aktivní účasti členů sdružení <b>Změna pro Radhošť</b>.
-Proto, neuvadime v programu nektere priority uvedene ve 
-Strategickym plánu - považujeme je za samozřejmost.  
+Proto, neuvádíme v programu některe priority uvedené ve 
+Strategickém plánu - považujeme je za samozřejmost.  
 
-## Zastavíme bezdůvodní privatizaci obecního rozpočtu 
+## Zastavíme bezdůvodnou privatizaci obecního rozpočtu 
 <a href="#" class="image main"><img src="{{ "/images/uvolneni.jpg" | absolute_url }}" alt="" /></a>
 <blockquote>
 Během posledního roku zastupitelstvo, aniž by se poradilo s občany 
 nebo je informovalo, přijalo několik opatření, vedoucích k masivnímu 
-přelívání obecních peněz do soukromých kapes – byla uvolněna 
+přelěvání obecních peněz do soukromých kapes – byla uvolněna 
 pozice starostky, což znamená, dle 
-<a href="https://www.zakonyprolidi.cz/cs/2017-318">nařizení vlády č. 318/2017 Sb.</a>, 
+<a href="https://www.zakonyprolidi.cz/cs/2017-318">nařízení vlády č. 318/2017 Sb.</a>, 
 zvýšení měsíční odměny z 16000 na 36499, zdvojnásobili 
-se odměny řadových členů zastupitelstva nad zakonem povolené maximum,
-a celkový počet zastupitelu se navýšil na 7. Nevidíme žádný 
-důvod podobného plýtvání obecními penězi – jejích důsledkem 
+se odměny řadových členů zastupitelstva nad zákonem povolené maximum,
+a celkový počet zastupitelů se navýšil na 7. Nevidíme žádný 
+důvod podobného plýtvání obecními penězi – jejíchž důsledkem 
 náklady na odměny členů zastupitelstva zabírají 
 1/3 celkového rozpočtu.
 </blockquote>
@@ -45,74 +45,71 @@ náklady na odměny členů zastupitelstva zabírají
 ## Podpoříme znovuotevření obecního obchodu
 <span class="image main"><img src="{{ "/images/prodejna.jpg" | absolute_url }}" alt="" /></span>
 
-V souhlasu se strategickým planem, považujeme opravu budovu obecní prodejny 
-za jednu z našich programových priorit. Podpořime nejen zprovoznění 
-obchodu, ale i jeho provoz prominutim najemného a přispěvkem pro 
-zaměstnance. Doufame, ze funkční obecní obchod bude nejen službou 
-občanům, ale i důležitym centrem veřejného života v obci.
+V souhlasu se strategickým plánem, považujeme opravu budovy obecní prodejny 
+za jednu z našich programových priorit. Podpoříme nejen zprovoznění 
+obchodu, ale i jeho provoz prominutím najemného a přispěvkem pro 
+zaměstnance. Doufáme, že funkční obecní obchod bude nejen službou 
+občanům, ale i důležitým centrem veřejného života v obci.
 
-## Zajistime rozvoj a modernizaci obecni infrastruktury
-
+## Zajístime rozvoj a modernizaci obecní infrastruktury
 <blockquote>
-Mezi největší problemy obecní infrastruktury považujeme chybějicí 
-chodník od Radhoště k železníční zastavce, zastaralý a drahý 
-v provozu systém veřejneho osvětlení, doživající obecní rozhlas, 
-chybejcí kanalizaci a špatnou internetovou konektivitu. 
+Za největší problémy obecní infrastruktury považujeme chybějicí 
+chodník od Radhoště k železníční zastávce, zastaralý a drahý 
+v provozu systém veřejneho osvětlení, dožívající obecní rozhlas, 
+chybějící kanalizaci a špatnou internetovou konektivitu. 
 </blockquote>
 
 - <b>Vytvořime finanční rezervu na rozvoj infrastruktury.</b> 
-Abychom byli pripravení operativně reagovbat na dotační vyzvy 
-- <b>Budeme nepřetřitě sledovat nabidky dotaci</b> obcim 
-v informačních systemech Kraje a přislušných ministerstev. 
+Abychom byli připraveni operativně reagovat na dotační výzvy 
+- <b>Budeme nepřetržitě sledovat nabídky dotací</b> obcím 
+v informačních systémech Kraje a přislušných ministerstev. 
 Nenecháme si utéct žádnou dotační příležitost do rozvoje 
 infrastruktury.  
-- <b>Podpořime vystavbu domovních čistíček odpadních vod.</b>
-V pripadě nedostatku dotačních penez podpořime tuto prioritu, 
-definovánou ve Strategickém planu, z obecniho rozpočtu.
+- <b>Podpoříme vystavbu domovních čistíček odpadních vod.</b>
+V případě nedostatku dotačních peněz podpoříme tuto prioritu, 
+definovanou ve Strategickém plánu, z obecního rozpočtu.
 - <b>Modernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
-musí byt spolehlivy, pravidelně testováný a dobře slyšitelný
-ve všech částech obce. Věrejne osvetlení bude usporné a dobře
+musí být spolehlivý, pravidelně testováný a dobře slyšitelný
+ve všech částech obce. Věřejné osvětlení bude usporné a dobře
 ovladatelné.
-- <b>Budeme se snažit propojit Radhošť se železniční zasatvkou 
-chodnikem.</b> Cesta na vlak po špatně osvetlené silnici v ranních 
-a večerních  hodninach, obzvlašť v zimě, nesmi by rizikem pro 
-zdravi a život.
+- <b>Budeme se snažit propojit Radhošť se železniční zastávkou 
+chodníkem.</b> Cesta na vlak po špatně osvětlené silnici v ranních 
+a večerních  hodinách, obzvlašť v zimě, nesmí byt rizikem pro 
+zdraví a život.
     
-## Otevřeme a zpřehlednime činnost zastupitelstva  
-
+## Otevřeme a zpřehledníme činnost zastupitelstva  
 <blockquote>
-Činnost zastupitelstva našé obce je dlouhodobě extrémně neprůhledná. 
+Činnost zastupitelstva naši obce je dlouhodobě extrémně neprůhledná. 
 Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizovaní 
-žádosti o poskytnutí informací trvá více jak dva týdny, nezveřejňují 
+žádostí o poskytnutí informací trvá více jak dva týdny, nezveřejňují 
 se žádné informace o veřejných zakázkách malého rozsahu a ani 
-většina smluv uzavřených obci. Hlášení obecního rozhlasu nejsou 
+většina smluv uzavřených obcí. Hlášení obecního rozhlasu nejsou 
 archivována a není možnost je poslechnout později. 
 </blockquote>
 
-- <b>Zprovozníme plnohodnotný obecní web</b>
+- <b>Zprovozníme plnohodnotný obecní web</b>,
 který bude obsahovat kompletní informace o činnosti obecního 
 zastupitelstva – podklady k připravovaným jednáním, zápisy z jednaní, 
 smlouvy uzavřené jménem obce (a ty také zveřejníme v 
 <a href="https://smlouvy.gov.cz/">Registru smluv)</a>, 
 průběžné a přehledné informace o plnění rozpočtu a další důležitá data.
-Zapojime se do projektu <a href="https://cityvizor.cz/">cityvizor</a> 
+Zapojíme se do projektu <a href="https://cityvizor.cz/">CityVizor</a> 
 - <b>Otevřeme transparentní účet obce.</b> Občané budou moci okamžitě a 
-bez omezení kontrolovat, za co konkrétně se utrácej jejích penize 
-(finanční prostředky obce). Tim zabranimé jekekoliv možnosti zneužiti
+bez omezení kontrolovat, za co konkrétně se utrácí jejich peníze 
+(finanční prostředky obce). Tím zabraníme jakékoliv možnosti zneužití
 věřejných pěnez.
 - <b>Zprovozníme archiv vysílání obecního rozhlasu a tištěný zpravodaj.</b> 
 Žádná novinka a vyhláška se občanům neztratí.
 
 ## Umožníme občanům aktivně rozhodovat o řízení obce
-
 - <b>Zavedeme participativní rozpočtovou položku.</b> 
-V souladu z navrhem opatření 3.4 Strategického planu, vyčleníme 
+V souladu z návrhem opatření 3.4 Strategického plánu, vyčleníme 
 z rozpočtu obce částku (na záležitosti kultury, sport, podporu 
-spolků, péči o vzhled obce a jiné veřejně prospěšné vydaje) 
-u které o rozdělení prostředku rozhodnou občané v anketě.
+spolků, péči o vzhled obce a jiné veřejně prospěšné výdaje) 
+u které o rozdělení prostředků rozhodnou občané v anketě.
 - <b>Zveřejníme podklady k jednaní zastupitelstva.</b>
-Každý občan bude předem vědět podrobnou informaci o každem 
+Každý občan bude předem vědět podrobnou informaci o každém 
 plánovaném jednání zastupitelstva obce
-- <b>Nabídneme občanům prostor k vyjadřovaní názoru</b> na zasedanich
-zastupitelstva nejen ve volné dizkuse ale i v hlavních bodech 
+- <b>Nabídneme občanům prostor k vyjadření názorů</b> na zasedaních
+zastupitelstva nejen ve volné dizkusi, ale i v hlavních bodech 
 programu jednání.
