@@ -16,7 +16,7 @@ kvalitní služby, pomoc v těžkých situacích i příležitosti ke
 vzdělání, sportu a kulturním zážitkům.
 
 Ve svém programu plánujeme vyřešit akutní organizační 
-a finanční problémy obce a dál se řidit potřebami občanů a 
+a finanční problémy obce a dál se řídit potřebami občanů a 
 <b><a href="/downloads/strategicky_plan.pdf">Strategickým rozvojovým plánem obce</a></b>, 
 vypracovaným za aktivní účasti členů sdružení <b>Změna pro Radhošť</b>.
 Proto, neuvádíme v programu některe priority uvedené ve 
@@ -27,7 +27,7 @@ Strategickém plánu - považujeme je za samozřejmost.
 <blockquote>
 Během posledního roku zastupitelstvo, aniž by se poradilo s občany 
 nebo je informovalo, přijalo několik opatření, vedoucích k masivnímu 
-přelěvání obecních peněz do soukromých kapes – byla uvolněna 
+přelévání obecních peněz do soukromých kapes – byla uvolněna 
 pozice starostky, což znamená, dle 
 <a href="https://www.zakonyprolidi.cz/cs/2017-318">nařízení vlády č. 318/2017 Sb.</a>, 
 zvýšení měsíční odměny z 16000 na 36499, zdvojnásobili 
@@ -35,7 +35,11 @@ se odměny řadových členů zastupitelstva nad zákonem povolené maximum,
 a celkový počet zastupitelů se navýšil na 7. Nevidíme žádný 
 důvod podobného plýtvání obecními penězi – jejíchž důsledkem 
 náklady na odměny členů zastupitelstva zabírají 
-1/3 celkového rozpočtu.
+1/3 celkového rozpočtu. 
+
+<strong>Od roku 2014 do roku 2018 
+(jedno volební období) došlo k dvojnasobnemu navýšení 
+výdajů na odměny zastupitelů.</strong>
 </blockquote>
 
 - <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 280000 za rok
@@ -47,31 +51,31 @@ náklady na odměny členů zastupitelstva zabírají
 
 V souhlasu se strategickým plánem, považujeme opravu budovy obecní prodejny 
 za jednu z našich programových priorit. Podpoříme nejen zprovoznění 
-obchodu, ale i jeho provoz prominutím najemného a přispěvkem pro 
+obchodu, ale i jeho provoz prominutím najemného a příspěvkem pro 
 zaměstnance. Doufáme, že funkční obecní obchod bude nejen službou 
 občanům, ale i důležitým centrem veřejného života v obci.
 
-## Zajístime rozvoj a modernizaci obecní infrastruktury
+## Zajistíme rozvoj a modernizaci obecní infrastruktury
 <span class="image main"><img src="{{ "/images/lampa.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>
 Za největší problémy obecní infrastruktury považujeme chybějicí 
-chodník od Radhoště k železníční zastávce, zastaralý a drahý 
+chodník od Radhoště k železniční zastávce, zastaralý a drahý 
 v provozu systém veřejneho osvětlení, dožívající obecní rozhlas, 
 chybějící kanalizaci a špatnou internetovou konektivitu. 
 </blockquote>
 
-- <b>Vytvořime finanční rezervu na rozvoj infrastruktury.</b> 
+- <b>Vytvoříme finanční rezervu na rozvoj infrastruktury.</b> 
 Abychom byli připraveni operativně reagovat na dotační výzvy 
 - <b>Budeme nepřetržitě sledovat nabídky dotací</b> obcím 
 v informačních systémech Kraje a přislušných ministerstev. 
 Nenecháme si utéct žádnou dotační příležitost do rozvoje 
 infrastruktury.  
-- <b>Podpoříme vystavbu domovních čistíček odpadních vod.</b>
+- <b>Podpoříme výstavbu domovních čistíček odpadních vod.</b>
 V případě nedostatku dotačních peněz podpoříme tuto prioritu, 
 definovanou ve Strategickém plánu, z obecního rozpočtu.
 - <b>Modernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
 musí být spolehlivý, pravidelně testováný a dobře slyšitelný
-ve všech částech obce. Věřejné osvětlení bude usporné a dobře
+ve všech částech obce. Věřejné osvětlení bude úsporné a dobře
 ovladatelné.
 - <b>Budeme se snažit propojit Radhošť se železniční zastávkou 
 chodníkem.</b> Cesta na vlak po špatně osvětlené silnici v ranních 
@@ -80,7 +84,7 @@ zdraví a život.
     
 ## Otevřeme a zpřehledníme činnost zastupitelstva  
 <blockquote>
-Činnost zastupitelstva naši obce je dlouhodobě extrémně neprůhledná. 
+Činnost zastupitelstva naší obce je dlouhodobě extrémně neprůhledná. 
 Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizovaní 
 žádostí o poskytnutí informací trvá více jak dva týdny, nezveřejňují 
 se žádné informace o veřejných zakázkách malého rozsahu a ani 
@@ -97,7 +101,7 @@ průběžné a přehledné informace o plnění rozpočtu a další důležitá 
 Zapojíme se do projektu <a href="https://cityvizor.cz/">CityVizor</a> 
 - <b>Otevřeme transparentní účet obce.</b> Občané budou moci okamžitě a 
 bez omezení kontrolovat, za co konkrétně se utrácí jejich peníze 
-(finanční prostředky obce). Tím zabraníme jakékoliv možnosti zneužití
+(finanční prostředky obce). Tím zabráníme jakékoliv možnosti zneužití
 věřejných pěnez.
 - <b>Zprovozníme archiv vysílání obecního rozhlasu a tištěný zpravodaj.</b> 
 Žádná novinka a vyhláška se občanům neztratí.
@@ -112,6 +116,6 @@ u které o rozdělení prostředků rozhodnou občané v anketě.
 - <b>Zveřejníme podklady k jednaní zastupitelstva.</b>
 Každý občan bude předem vědět podrobnou informaci o každém 
 plánovaném jednání zastupitelstva obce
-- <b>Nabídneme občanům prostor k vyjadření názorů</b> na zasedaních
+- <b>Nabídneme občanům prostor k vyjádření názorů</b> na zasedáních
 zastupitelstva nejen ve volné dizkusi, ale i v hlavních bodech 
 programu jednání.
