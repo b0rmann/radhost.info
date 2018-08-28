@@ -43,9 +43,13 @@
     age: 50
     work: Dispečer
     facebook: ischule 
+    biografy: > 
+        Původem z Litoměřic, přes 20 let pracuji v oblasti 
+        logistiky. Chci otevřený a vstřícný úřad, který zde 
+        bude pro občany, tedy s neváznoucí komunikací 
+        a transparentním jednáním.
     mission: >
-        V zastupitelstvu se zapojim do adminstrativní prace
-        a komunikaci s občany. 
+        "Motto: „Chceš-li něco změnit, tak jdi a udělej to.“"
 
 -   id: jan.novak 
     position: 5
