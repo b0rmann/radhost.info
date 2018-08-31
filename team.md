@@ -36,7 +36,7 @@ a věříme ve vaši podporu.
 {% endif %}
 </p>
 {% if person.mission %}
-<p>{{ person.mission }}</p>
+<p><em>{{ person.mission }}</em></p>
 {% endif %}
 <hr style="clear:left;">
 </div>
