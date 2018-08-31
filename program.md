@@ -19,7 +19,7 @@ Ve svém programu plánujeme vyřešit akutní organizační
 a finanční problémy obce a dál se řídit potřebami občanů a 
 <b><a href="/downloads/strategicky_plan.pdf">Strategickým rozvojovým plánem obce</a></b>, 
 vypracovaným za aktivní účasti členů sdružení <b>Změna pro Radhošť</b>.
-Proto, neuvádíme v programu některe priority uvedené ve 
+Proto, neuvádíme v programu některé priority uvedené ve 
 Strategickém plánu - považujeme je za samozřejmost.  
 
 ## Zastavíme bezdůvodnou privatizaci obecního rozpočtu 
@@ -38,20 +38,20 @@ náklady na odměny členů zastupitelstva zabírají
 1/3 celkového rozpočtu. 
 
 <strong>Od roku 2014 do roku 2018 
-(jedno volební období) došlo k dvojnasobnemu navýšení 
+(jedno volební období) došlo k dvojnásobnému navýšení 
 výdajů na odměny zastupitelů.</strong>
 </blockquote>
 
 - <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 280000 za rok
 - <b>Vrátíme odměny neuvolněných členů zastupitelstva na 1000 kč/měsíc</b> - uspoříme dalších 70000 za rok
-- <b>Snížíme od příštího volebního období počet zastupitelu zpět na 5</b>
+- <b>Snížíme od příštího volebního období počet zastupitelů zpět na 5</b>
 
 ## Podpoříme znovuotevření obecního obchodu
 <span class="image main"><img src="{{ "/images/prodejna.jpg" | absolute_url }}" alt="" /></span>
 
 V souhlasu se strategickým plánem, považujeme opravu budovy obecní prodejny 
 za jednu z našich programových priorit. Podpoříme nejen zprovoznění 
-obchodu, ale i jeho provoz prominutím najemného a příspěvkem pro 
+obchodu, ale i jeho provoz prominutím nájemného a příspěvkem pro 
 zaměstnance. Doufáme, že funkční obecní obchod bude nejen službou 
 občanům, ale i důležitým centrem veřejného života v obci.
 
@@ -67,7 +67,7 @@ chybějící kanalizaci a špatnou internetovou konektivitu.
 - <b>Vytvoříme finanční rezervu na rozvoj infrastruktury.</b> 
 Abychom byli připraveni operativně reagovat na dotační výzvy 
 - <b>Budeme nepřetržitě sledovat nabídky dotací</b> obcím 
-v informačních systémech Kraje a přislušných ministerstev. 
+v informačních systémech Kraje a příslušných ministerstev. 
 Nenecháme si utéct žádnou dotační příležitost do rozvoje 
 infrastruktury.  
 - <b>Podpoříme výstavbu domovních čistíček odpadních vod.</b>
