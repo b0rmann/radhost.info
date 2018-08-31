@@ -1,8 +1,15 @@
 -   id: vitezslav.korab
     position: 1
-    name: Vitězslav Koráb
+    name: Ing. Vitězslav Koráb
     age: 74
     work: Důchodce
+    biografy: >
+        Absolvent Vysoké  školy zemědělské v Praze. Inženýr meliorací 
+        a zemědělských staveb. Dlouholetý člen TJ Sokol a myslivec.  
+        Třicet let vykonával funkci mysliveckého hospodáře MS Uhersko. 
+        V současné době je v důchodu a aktivně se věnuje sportu který 
+        je pro něho velkým koníčkem. 
+
     mission: >
         V zastupitelstvu budu garantem zachování dobrých tradic a 
         ochráncem zajmů starší generace.
@@ -14,11 +21,12 @@
     work: Vedoucí směny
     facebook: jaroslav.kukol
     biografy: >
-        Vystudoval jsem obor Mechanik seřizovač SOU strojařské 
-        a zdárně zakončil maturitní zkouškou. Poté jsem nastoupil 
-        na vysokou školu MTF, kde jsem studium po roce ukončil 
-        a nastoupil na základní vojenskou službu. Pracuji 13 rokem 
+        Vystudoval obor Mechanik seřizovač SOU strojařské 
+        a zdárně zakončil maturitní zkouškou. Poté  nastoupil 
+        na vysokou školu MTF, kde studium po roce ukončil 
+        a nastoupil na základní vojenskou službu. Pracuje 13. rokem 
         jako vedoucí směny v automobilovém průmyslu. 
+#Člen TJ Sokol a dobrovolný hasič.
 
     mission: >
         V obci se postarám o funkčnost a dobrou spolupráci všech spolků.
