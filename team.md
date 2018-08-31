@@ -1,24 +1,25 @@
 ---
 layout: page
 title: Náš team 
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Náš team
 sitemap:
     priority: 0.7
     lastmod: 2018-08-21
     changefreq: weekly
 ---
-Reprezentujeme všechny věkové skupiny, všechny časti obce. 
-Děláme různou práci, patříme k různým národnostem. Jsou mezi nami
+Reprezentujeme všechny věkové skupiny, všechny části obce. 
+Děláme různou práci, patříme k různým národnostem. Jsou mezi námi
 starousedlíci i přistěhovalci. Reprezentujeme všechny občanské spolky -
-TJ Sokol, dobrovolní hasiči a myslivci. Navzájem se dopnujeme a jsme 
+TJ Sokol, dobrovolní hasiči a myslivci. Navzájem se dopňujeme a jsme 
 jeden team. 
 
-Nás spojuje společný zájem o to, aby naše obec vzkvétala a nestarla, 
-aby se mezi občany udržovalí dobré vztahy a vzájemná výpomoc, 
-aby lide se mezi sebou vice setkávali a komunkovali, aby i v naši vesnici
-pravda a láska zvítězili nad lží a nenávistí.
+Nás spojuje společný zájem o to, aby naše obec vzkvétala a nestárla.
+Aby se mezi občany udržovali dobré vztahy a vzájemná výpomoc, 
+aby se lide mezi sebou více setkávali a komunkovali, aby i v naší 
+vesnici pravda a láska zvítězili nad lží a nenávistí.
 
-Vime jak toho dosáhnout, máme kompletní <a href="/program">program</a> a věříme ve vaší podporu.
+Víme jak toho dosáhnout, máme kompletní <a href="/program">program</a> 
+a věříme ve vaši podporu.
 
 
 {% for person in site.data.people %}
