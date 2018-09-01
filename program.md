@@ -58,34 +58,34 @@ občanům, ale i důležitým centrem veřejného života v obci.
 ## Zajistíme rozvoj a modernizaci obecní infrastruktury
 <span class="image main"><img src="{{ "/images/lampa.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>
-Za největší problémy obecní infrastruktury považujeme chybějicí 
+Za největší problémy obecní infrastruktury považujeme chybějící 
 chodník od Radhoště k železniční zastávce, zastaralý a drahý 
-v provozu systém veřejneho osvětlení, dožívající obecní rozhlas, 
-chybějící kanalizaci a špatnou internetovou konektivitu. 
+v provozu systém veřejného osvětlení, dožívající obecní rozhlas, 
+chybějící kanalizaci a špatnou internetovou konektivitu.
 </blockquote>
 
-- <b>Vytvoříme finanční rezervu na rozvoj infrastruktury.</b> 
-Abychom byli připraveni operativně reagovat na dotační výzvy 
+- <b>Vytvoříme finanční rezervu na rozvoj infrastruktury,</b> 
+abychom byli připraveni operativně reagovat na dotační výzvy 
 - <b>Budeme nepřetržitě sledovat nabídky dotací</b> obcím 
-v informačních systémech Kraje a příslušných ministerstev. 
+v informačních systémech kraje a příslušných ministerstev. 
 Nenecháme si utéct žádnou dotační příležitost do rozvoje 
 infrastruktury.  
-- <b>Podpoříme výstavbu domovních čistíček odpadních vod.</b>
+- <b>Podpoříme výstavbu domovních čističek odpadních vod.</b>
 V případě nedostatku dotačních peněz podpoříme tuto prioritu, 
 definovanou ve Strategickém plánu, z obecního rozpočtu.
-- <b>Modernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
-musí být spolehlivý, pravidelně testováný a dobře slyšitelný
-ve všech částech obce. Věřejné osvětlení bude úsporné a dobře
+- <b>Zodernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
+musí být spolehlivý, pravidelně testovaný a dobře slyšitelný
+ve všech částech obce. Veřejné osvětlení bude úsporné a dobře
 ovladatelné.
 - <b>Budeme se snažit propojit Radhošť se železniční zastávkou 
 chodníkem.</b> Cesta na vlak po špatně osvětlené silnici v ranních 
-a večerních  hodinách, obzvlašť v zimě, nesmí byt rizikem pro 
+a večerních  hodinách, obzvlášť v zimě, nesmí byt rizikem pro 
 zdraví a život.
     
 ## Otevřeme a zpřehledníme činnost zastupitelstva  
 <blockquote>
 Činnost zastupitelstva naší obce je dlouhodobě extrémně neprůhledná. 
-Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizovaní 
+Zápisy ze zasedání zastupitelstva nejsou zveřejňovány, vyřizování 
 žádostí o poskytnutí informací trvá více jak dva týdny, nezveřejňují 
 se žádné informace o veřejných zakázkách malého rozsahu a ani 
 většina smluv uzavřených obcí. Hlášení obecního rozhlasu nejsou 
@@ -102,7 +102,7 @@ Zapojíme se do projektu <a href="https://cityvizor.cz/">CityVizor</a>
 - <b>Otevřeme transparentní účet obce.</b> Občané budou moci okamžitě a 
 bez omezení kontrolovat, za co konkrétně se utrácí jejich peníze 
 (finanční prostředky obce). Tím zabráníme jakékoliv možnosti zneužití
-věřejných pěnez.
+veřejných peněz.
 - <b>Zprovozníme archiv vysílání obecního rozhlasu a tištěný zpravodaj.</b> 
 Žádná novinka a vyhláška se občanům neztratí.
 
@@ -113,9 +113,9 @@ V souladu z návrhem opatření 3.4 Strategického plánu, vyčleníme
 z rozpočtu obce částku (na záležitosti kultury, sport, podporu 
 spolků, péči o vzhled obce a jiné veřejně prospěšné výdaje) 
 u které o rozdělení prostředků rozhodnou občané v anketě.
-- <b>Zveřejníme podklady k jednaní zastupitelstva.</b>
+- <b>Zveřejníme podklady k jednání zastupitelstva.</b>
 Každý občan bude předem vědět podrobnou informaci o každém 
-plánovaném jednání zastupitelstva obce
+plánovaném jednání zastupitelstva obce.
 - <b>Nabídneme občanům prostor k vyjádření názorů</b> na zasedáních
-zastupitelstva nejen ve volné dizkusi, ale i v hlavních bodech 
+zastupitelstva nejen ve volné diskusi, ale i v hlavních bodech 
 programu jednání.
