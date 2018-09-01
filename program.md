@@ -10,17 +10,17 @@ sitemap:
 ## Naše vize
 Obec má být společenstvím občanů, které každému jednotlivci pomáhá 
 prožít svůj život svobodně a naplno. Chceme, aby správu obce 
-zajišťoval úřad otevřený, moderní, odpovědný a vstřícný, který 
-oceňuje a podporuje aktivitu občanů. Úřad schopný zajistit občanům 
-kvalitní služby, pomoc v těžkých situacích i příležitosti ke 
+zajišťoval úřad otevřený, moderní, zodpovědný a vstřícný, který
+oceňuje a podporuje aktivitu občanů. Úřad schopný zajistit občanům
+kvalitní služby, pomoc v těžkých situacích i příležitosti ke
 vzdělání, sportu a kulturním zážitkům.
 
 Ve svém programu plánujeme vyřešit akutní organizační 
-a finanční problémy obce a dál se řídit potřebami občanů a 
+a finanční problémy obce, dál se řídit potřebami občanů a
 <b><a href="/downloads/strategicky_plan.pdf">Strategickým rozvojovým plánem obce</a></b>, 
 vypracovaným za aktivní účasti členů sdružení <b>Změna pro Radhošť</b>.
-Proto, neuvádíme v programu některé priority uvedené ve 
-Strategickém plánu - považujeme je za samozřejmost.  
+Proto neuvádíme v programu některé priority uvedené ve 
+Strategickém plánu - považujeme je za samozřejmost.
 
 ## Zastavíme bezdůvodnou privatizaci obecního rozpočtu 
 <a href="#" class="image main"><img src="{{ "/images/uvolneni.jpg" | absolute_url }}" alt="" /></a>
@@ -28,12 +28,12 @@ Strategickém plánu - považujeme je za samozřejmost.
 Během posledního roku zastupitelstvo, aniž by se poradilo s občany 
 nebo je informovalo, přijalo několik opatření, vedoucích k masivnímu 
 přelévání obecních peněz do soukromých kapes – byla uvolněna 
-pozice starostky, což znamená, dle 
+pozice starostky, což znamená dle
 <a href="https://www.zakonyprolidi.cz/cs/2017-318">nařízení vlády č. 318/2017 Sb.</a>, 
-zvýšení měsíční odměny z 16000 na 36499, zdvojnásobili 
-se odměny řadových členů zastupitelstva nad zákonem povolené maximum,
+zvýšení měsíční odměny z 16.000 Kč na 36.499 Kč, zdvojnásobily 
+se odměny řadových členů zastupitelstva nad zákonem povolené maximum, 
 a celkový počet zastupitelů se navýšil na 7. Nevidíme žádný 
-důvod podobného plýtvání obecními penězi – jejíchž důsledkem 
+důvod podobného plýtvání obecními penězi – jejichž důsledkem 
 náklady na odměny členů zastupitelstva zabírají 
 1/3 celkového rozpočtu. 
 
@@ -42,8 +42,8 @@ náklady na odměny členů zastupitelstva zabírají
 výdajů na odměny zastupitelů.</strong>
 </blockquote>
 
-- <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 280000 za rok
-- <b>Vrátíme odměny neuvolněných členů zastupitelstva na 1000 kč/měsíc</b> - uspoříme dalších 70000 za rok
+- <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 280.000 Kč za rok
+- <b>Vrátíme odměny neuvolněných členů zastupitelstva na 1000 Kč/měsíc</b> - uspoříme dalších 70.000 Kč za rok
 - <b>Snížíme od příštího volebního období počet zastupitelů zpět na 5</b>
 
 ## Podpoříme znovuotevření obecního obchodu
