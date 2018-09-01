@@ -69,11 +69,18 @@
     position: 5
     name: Jan Novák
     age: 43
-    work: Svářeč
+    work: Řemeslník
     facebook: Orfinjan 
+    biografy: >
+        Vyučený jako zámečník, svářeč a masér. Zajímá se 
+        o historii, esoteriku, filosofii a včelaří.
+        Již 10 let se aktivně podílí na činnosti spolku 
+        <a href="http://www.boii.cz/">Boii</a>, budování 
+        <a href="http://www.skanzennasavrky.cz/">keltského Skanzenu v Nasavrkách</a> 
+        a realizaci výukových i zážitkových programů pro děti a dospělé.
     mission: >
-        V zastupitelstvu se budu věnovat záležitostěm kultury
-        a společenských aktivit.  
+        Rád byich pracoval na vytvoření příjemného prostředí 
+        v Radhošti a bohatém kulturním a společenském životě.
 
 -   id: jan.balous  
     position: 6
