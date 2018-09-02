@@ -73,7 +73,7 @@ infrastruktury.
 - <b>Podpoříme výstavbu domovních čističek odpadních vod.</b>
 V případě nedostatku dotačních peněz podpoříme tuto prioritu, 
 definovanou ve Strategickém plánu, z obecního rozpočtu.
-- <b>Zodernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
+- <b>Zmodernizujeme obecní rozhlas a osvětlení.</b> Rozhlas
 musí být spolehlivý, pravidelně testovaný a dobře slyšitelný
 ve všech částech obce. Veřejné osvětlení bude úsporné a dobře
 ovladatelné.
