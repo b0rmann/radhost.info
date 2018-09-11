@@ -2,7 +2,7 @@
 layout: post
 title:  "Kolik platíme zastupitelstvu"
 date:   2018-09-10
-excerpt: "Porovnali jsme výši odměn starostovi, místostarostovi a členům zastupitelstva v Radhošti se sousedními obcemi stejné velikosti a kategorie v přepočtu na jednoho občana"
+excerpt: "Porovnali jsme výši odměn starostovi, místostarostovi a členům zastupitelstva v Radhošti se sousedními obcemi stejné velikosti v přepočtu na jednoho občana"
 image: "/images/odmeny.png"
 ---
 
