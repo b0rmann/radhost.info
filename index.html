@@ -18,7 +18,7 @@ sitemap:
 			<div id="wrapper" class="fade-in">
 
 				<!-- Intro -->
-                <div id="intro">
+                    <div id="intro">
 	                    <div><img src="/images/znak.png" alt="" style="margin-bottom: 30px;"></div>				
                         <h1>{{site.title}}</h1>
 						<h2>zodpovědné hospodaření a otevřený úřad</h2>
@@ -35,17 +35,35 @@ sitemap:
             {% include nav.html %}
 					</nav>
 
+<div id="main">
+                <section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">pokračování</a></li>
+  									</ul>
+  								</article>
+                {% endfor %}
+
+				</section>
 
 						<!-- Footer -->
 							<footer>
 							</footer>
 
-					</div>
+				</div>
 
 			</div>
 
 		<!-- Scripts -->
-		{% include scripts-main.html %}
+    {% include scripts-main.html %}
     {% include tracking.html %}
 
 	</body>
