@@ -18,8 +18,9 @@ starostky i od 1.března zůstane na 16.000 Kč.
 <div class="image main"><img src="{{ "/images/uvolneni.jpg" | absolute_url }}" alt="" /></div>
 
 A to je příklad 
-záměrného uvedení občanů v omyl. Plat uvolněného starosty, 
-dle nařízení vlády č. 319/2017 je totiž 36.499 Kč. Jsou i zprávy 
+záměrného uvedení občanů v omyl. Plat uvolněného starosty, dle 
+<a href="/downloads/318-2017_Sb.pdf">nařízení vlády 318/2017 Sb.</a> 
+je totiž 36.499 Kč. Jsou i zprávy 
 o tom, že záměrně byli uvedeni v omyl i někteří členové zastupitelstva, 
 kteří toto rozhodnutí schválili - je na jejich svědomí přiznat 
 vlastní nekompetentnost, nebo spoluúčast na přivlastňování obecních 
