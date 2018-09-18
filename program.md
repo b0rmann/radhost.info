@@ -30,8 +30,8 @@ nebo je informovalo, přijalo několik opatření, vedoucích k masivnímu
 přelévání obecních peněz do soukromých kapes – byla uvolněna 
 pozice starostky, což znamená dle
 <a href="https://www.zakonyprolidi.cz/cs/2017-318">nařízení vlády č. 318/2017 Sb.</a>, 
-zvýšení měsíční odměny z 16.000 Kč na 36.499 Kč, zdvojnásobily 
-se odměny řadových členů zastupitelstva nad zákonem povolené maximum, 
+zvýšení měsíční odměny z 16.000 Kč na 36.499 Kč. Zvedly 
+se odměny řadových členů zastupitelstva, 
 a celkový počet zastupitelů se navýšil na 7. Nevidíme žádný 
 důvod podobného plýtvání obecními penězi – jejichž důsledkem 
 náklady na odměny členů zastupitelstva zabírají 
@@ -42,14 +42,14 @@ náklady na odměny členů zastupitelstva zabírají
 výdajů na odměny zastupitelů.</strong>
 </blockquote>
 
-- <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 280.000 Kč za rok
+- <b>Zrušíme uvolnění starosty</b> - a tím uspoříme cca 400.000 Kč za rok
 - <b>Vrátíme odměny neuvolněných členů zastupitelstva na 1000 Kč/měsíc</b> - uspoříme dalších 70.000 Kč za rok
 - <b>Snížíme od příštího volebního období počet zastupitelů zpět na 5</b>
 
 ## Podpoříme znovuotevření obecního obchodu
 <span class="image main"><img src="{{ "/images/prodejna.jpg" | absolute_url }}" alt="" /></span>
 
-V souhlasu se strategickým plánem, považujeme opravu budovy obecní prodejny 
+V souladu se strategickým plánem, považujeme opravu budovy obecní prodejny 
 za jednu z našich programových priorit. Podpoříme nejen zprovoznění 
 obchodu, ale i jeho provoz prominutím nájemného a příspěvkem pro 
 zaměstnance. Doufáme, že funkční obecní obchod bude nejen službou 
@@ -98,7 +98,6 @@ zastupitelstva – podklady k připravovaným jednáním, zápisy z jednaní,
 smlouvy uzavřené jménem obce (a ty také zveřejníme v 
 <a href="https://smlouvy.gov.cz/">Registru smluv)</a>, 
 průběžné a přehledné informace o plnění rozpočtu a další důležitá data.
-Zapojíme se do projektu <a href="https://cityvizor.cz/">CityVizor</a> 
 - <b>Otevřeme transparentní účet obce.</b> Občané budou moci okamžitě a 
 bez omezení kontrolovat, za co konkrétně se utrácí jejich peníze 
 (finanční prostředky obce). Tím zabráníme jakékoliv možnosti zneužití
