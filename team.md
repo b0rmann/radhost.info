@@ -9,7 +9,7 @@ sitemap:
 ---
 Reprezentujeme všechny věkové skupiny, všechny části obce. 
 Děláme různou práci, patříme k různým národnostem. Jsou mezi námi
-starousedlíci i přistěhovalci. Reprezentujeme všechny občanské spolky -
+starousedlíci i přistěhovalci. Zastupujeme všechny občanské spolky -
 TJ Sokol, dobrovolní hasiči a myslivci. Navzájem se dopňujeme a jsme 
 jeden team. 
 
