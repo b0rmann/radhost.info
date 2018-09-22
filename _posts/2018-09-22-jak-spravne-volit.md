@@ -3,7 +3,7 @@ layout: post
 title:  "Jak spravně volit"
 date:   2018-09-22
 excerpt: "Cílem následujícího textu je osvětlit, jakým způsobem hlasovat, abyste o své hlasy nepřišli."
-#image: "/images/uvolneni.jpg"
+image: "/images/listek.jpg"
 ---
 
 Při volbách do zastupitelstev obcí voliči tradičně nejvíce chybují 
